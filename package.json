@@ -31,5 +31,6 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/.eslintrc"
-  }
+  },
+  "homepage": "http://phananh9x.github.io/OrderApp-ReactJS/build/",
 }
